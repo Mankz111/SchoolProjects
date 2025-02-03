@@ -12,7 +12,7 @@ Bem-vindo ao **SLOT-BONANZA**, um jogo de slot desenvolvido em Python, que propo
 
 ## Relatório
 
-Para mais detalhes sobre o funcionamento do jogo e a sua implementação, consulte o [relatório do trabalho]((https://github.com/Mankz111/SchoolProjects/blob/main/relatorio.pdf)).
+Para mais detalhes sobre o funcionamento do jogo e a sua implementação, consulte o [relatório do trabalho](https://github.com/Mankz111/SchoolProjects/blob/main/relatorio.pdf).
 
 ## Estrutura do Código
 
