@@ -1,5 +1,3 @@
-# SchoolProjects
-
 # Jogo de Slot - SLOT-BONANZA 🎰
 
 Bem-vindo ao **SLOT-BONANZA**, um jogo de slot desenvolvido em Python, que proporciona uma experiência divertida e interativa para os jogadores. Este projeto foi criado como parte do meu trabalho académico, com o objetivo de demonstrar as minhas habilidades em programação e desenvolvimento de jogos.
@@ -11,6 +9,10 @@ Bem-vindo ao **SLOT-BONANZA**, um jogo de slot desenvolvido em Python, que propo
 - **Jogo de Slot**: Possibilidade de definir uma aposta e jogar.
 - **Regras do Jogo**: Explicações claras sobre como jogar e as condições para ganhar.
 - **Relatório de Ganhos/Perdas**: Visualização detalhada do desempenho financeiro do jogador.
+
+## Relatório
+
+Para mais detalhes sobre o funcionamento do jogo e a sua implementação, consulte o [relatório do trabalho](caminho/para/o/relatorio.pdf).
 
 ## Estrutura do Código
 
